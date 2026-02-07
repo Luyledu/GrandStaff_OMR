@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 End-to-End Grand Staff Optical Music Recognition System
 🎯 Project Overview
 This system implements a complete sheet music recognition pipeline, integrating:
@@ -58,4 +58,3 @@ Original YOLO implementation by Ultralytics
 Sheet Music Transformer research teams
 Open-source music notation libraries
 Contributors and testers
->>>>>>> ee3fad58a61d88340b5e6461a2bd79f1702db105
