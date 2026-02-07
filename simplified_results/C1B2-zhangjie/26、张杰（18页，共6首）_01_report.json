@@ -1,0 +1,388 @@
+{
+  "image_name": "26、张杰（18页，共6首）_01",
+  "processing_time": "2026-02-07T21:36:32.728669",
+  "yolo_detections": {
+    "total_count": 12,
+    "detections": [
+      {
+        "bbox": [
+          167,
+          2247,
+          3790,
+          3039
+        ],
+        "confidence": 0.8994579315185547,
+        "label": "B_u",
+        "class_id": 0,
+        "area": 2869416
+      },
+      {
+        "bbox": [
+          185,
+          3044,
+          3769,
+          3851
+        ],
+        "confidence": 0.8994473218917847,
+        "label": "B_u",
+        "class_id": 0,
+        "area": 2892288
+      },
+      {
+        "bbox": [
+          239,
+          3829,
+          3731,
+          4577
+        ],
+        "confidence": 0.8976387977600098,
+        "label": "B_u",
+        "class_id": 0,
+        "area": 2612016
+      },
+      {
+        "bbox": [
+          209,
+          4578,
+          3732,
+          5336
+        ],
+        "confidence": 0.8939605951309204,
+        "label": "B_u",
+        "class_id": 0,
+        "area": 2670434
+      },
+      {
+        "bbox": [
+          339,
+          647,
+          3768,
+          1454
+        ],
+        "confidence": 0.8936819434165955,
+        "label": "B_u",
+        "class_id": 0,
+        "area": 2767203
+      },
+      {
+        "bbox": [
+          188,
+          1458,
+          3785,
+          2291
+        ],
+        "confidence": 0.8928609490394592,
+        "label": "B_u",
+        "class_id": 0,
+        "area": 2996301
+      },
+      {
+        "bbox": [
+          220,
+          3183,
+          305,
+          3692
+        ],
+        "confidence": 0.8533263802528381,
+        "label": "Brace",
+        "class_id": 1,
+        "area": 43265
+      },
+      {
+        "bbox": [
+          224,
+          4754,
+          298,
+          5254
+        ],
+        "confidence": 0.8301025629043579,
+        "label": "Brace",
+        "class_id": 1,
+        "area": 37000
+      },
+      {
+        "bbox": [
+          222,
+          2401,
+          298,
+          2912
+        ],
+        "confidence": 0.8255805373191833,
+        "label": "Brace",
+        "class_id": 1,
+        "area": 38836
+      },
+      {
+        "bbox": [
+          225,
+          3969,
+          298,
+          4472
+        ],
+        "confidence": 0.82302325963974,
+        "label": "Brace",
+        "class_id": 1,
+        "area": 36719
+      },
+      {
+        "bbox": [
+          219,
+          1622,
+          296,
+          2130
+        ],
+        "confidence": 0.8223777413368225,
+        "label": "Brace",
+        "class_id": 1,
+        "area": 39116
+      },
+      {
+        "bbox": [
+          587,
+          844,
+          666,
+          1354
+        ],
+        "confidence": 0.7454625964164734,
+        "label": "Brace",
+        "class_id": 1,
+        "area": 40290
+      }
+    ]
+  },
+  "staff_regions": {
+    "total_count": 6,
+    "regions": [
+      {
+        "id": 0,
+        "bbox": [
+          309,
+          617,
+          3798,
+          1484
+        ],
+        "original_bbox": [
+          339,
+          647,
+          3768,
+          1454
+        ],
+        "confidence": 0.8936819434165955
+      },
+      {
+        "id": 1,
+        "bbox": [
+          158,
+          1428,
+          3815,
+          2321
+        ],
+        "original_bbox": [
+          188,
+          1458,
+          3785,
+          2291
+        ],
+        "confidence": 0.8928609490394592
+      },
+      {
+        "id": 2,
+        "bbox": [
+          137,
+          2217,
+          3820,
+          3069
+        ],
+        "original_bbox": [
+          167,
+          2247,
+          3790,
+          3039
+        ],
+        "confidence": 0.8994579315185547
+      },
+      {
+        "id": 3,
+        "bbox": [
+          155,
+          3014,
+          3799,
+          3881
+        ],
+        "original_bbox": [
+          185,
+          3044,
+          3769,
+          3851
+        ],
+        "confidence": 0.8994473218917847
+      },
+      {
+        "id": 4,
+        "bbox": [
+          209,
+          3799,
+          3761,
+          4607
+        ],
+        "original_bbox": [
+          239,
+          3829,
+          3731,
+          4577
+        ],
+        "confidence": 0.8976387977600098
+      },
+      {
+        "id": 5,
+        "bbox": [
+          179,
+          4548,
+          3762,
+          5366
+        ],
+        "original_bbox": [
+          209,
+          4578,
+          3732,
+          5336
+        ],
+        "confidence": 0.8939605951309204
+      }
+    ]
+  },
+  "cropped_results": [
+    {
+      "id": 0,
+      "original_bbox": [
+        339,
+        647,
+        3768,
+        1454
+      ],
+      "processed_bbox": [
+        309,
+        617,
+        3798,
+        1484
+      ],
+      "confidence": 0.8936819434165955,
+      "image_path": "simplified_results/20260207_213627/cropped_staffs/26、张杰（18页，共6首）_01_staff_000.png",
+      "image_size": [
+        256,
+        1030
+      ]
+    },
+    {
+      "id": 1,
+      "original_bbox": [
+        188,
+        1458,
+        3785,
+        2291
+      ],
+      "processed_bbox": [
+        158,
+        1428,
+        3815,
+        2321
+      ],
+      "confidence": 0.8928609490394592,
+      "image_path": "simplified_results/20260207_213627/cropped_staffs/26、张杰（18页，共6首）_01_staff_001.png",
+      "image_size": [
+        256,
+        1048
+      ]
+    },
+    {
+      "id": 2,
+      "original_bbox": [
+        167,
+        2247,
+        3790,
+        3039
+      ],
+      "processed_bbox": [
+        137,
+        2217,
+        3820,
+        3069
+      ],
+      "confidence": 0.8994579315185547,
+      "image_path": "simplified_results/20260207_213627/cropped_staffs/26、张杰（18页，共6首）_01_staff_002.png",
+      "image_size": [
+        256,
+        1106
+      ]
+    },
+    {
+      "id": 3,
+      "original_bbox": [
+        185,
+        3044,
+        3769,
+        3851
+      ],
+      "processed_bbox": [
+        155,
+        3014,
+        3799,
+        3881
+      ],
+      "confidence": 0.8994473218917847,
+      "image_path": "simplified_results/20260207_213627/cropped_staffs/26、张杰（18页，共6首）_01_staff_003.png",
+      "image_size": [
+        256,
+        1075
+      ]
+    },
+    {
+      "id": 4,
+      "original_bbox": [
+        239,
+        3829,
+        3731,
+        4577
+      ],
+      "processed_bbox": [
+        209,
+        3799,
+        3761,
+        4607
+      ],
+      "confidence": 0.8976387977600098,
+      "image_path": "simplified_results/20260207_213627/cropped_staffs/26、张杰（18页，共6首）_01_staff_004.png",
+      "image_size": [
+        256,
+        1125
+      ]
+    },
+    {
+      "id": 5,
+      "original_bbox": [
+        209,
+        4578,
+        3732,
+        5336
+      ],
+      "processed_bbox": [
+        179,
+        4548,
+        3762,
+        5366
+      ],
+      "confidence": 0.8939605951309204,
+      "image_path": "simplified_results/20260207_213627/cropped_staffs/26、张杰（18页，共6首）_01_staff_005.png",
+      "image_size": [
+        256,
+        1121
+      ]
+    }
+  ],
+  "output_directories": {
+    "base": "simplified_results/20260207_213627",
+    "cropped_staffs": "simplified_results/20260207_213627/cropped_staffs",
+    "visualizations": "simplified_results/20260207_213627/visualizations",
+    "detections": "simplified_results/20260207_213627/detections"
+  }
+}

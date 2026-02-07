@@ -1,0 +1,388 @@
+{
+  "image_name": "skoven_02",
+  "processing_time": "2026-02-07T21:20:56.626367",
+  "yolo_detections": {
+    "total_count": 12,
+    "detections": [
+      {
+        "bbox": [
+          178,
+          4442,
+          3728,
+          5303
+        ],
+        "confidence": 0.937631368637085,
+        "label": "B_u",
+        "class_id": 0,
+        "area": 3056550
+      },
+      {
+        "bbox": [
+          171,
+          2841,
+          3730,
+          3573
+        ],
+        "confidence": 0.9111457467079163,
+        "label": "B_u",
+        "class_id": 0,
+        "area": 2605188
+      },
+      {
+        "bbox": [
+          168,
+          3635,
+          3726,
+          4428
+        ],
+        "confidence": 0.9015364050865173,
+        "label": "B_u",
+        "class_id": 0,
+        "area": 2821494
+      },
+      {
+        "bbox": [
+          218,
+          1388,
+          306,
+          1908
+        ],
+        "confidence": 0.8967211246490479,
+        "label": "Brace",
+        "class_id": 1,
+        "area": 45760
+      },
+      {
+        "bbox": [
+          213,
+          2175,
+          302,
+          2727
+        ],
+        "confidence": 0.8919970393180847,
+        "label": "Brace",
+        "class_id": 1,
+        "area": 49128
+      },
+      {
+        "bbox": [
+          334,
+          588,
+          426,
+          1140
+        ],
+        "confidence": 0.8915287256240845,
+        "label": "Brace",
+        "class_id": 1,
+        "area": 50784
+      },
+      {
+        "bbox": [
+          207,
+          4605,
+          291,
+          5176
+        ],
+        "confidence": 0.8853394389152527,
+        "label": "Brace",
+        "class_id": 1,
+        "area": 47964
+      },
+      {
+        "bbox": [
+          208,
+          3785,
+          293,
+          4333
+        ],
+        "confidence": 0.878784716129303,
+        "label": "Brace",
+        "class_id": 1,
+        "area": 46580
+      },
+      {
+        "bbox": [
+          206,
+          2972,
+          293,
+          3525
+        ],
+        "confidence": 0.8757205009460449,
+        "label": "Brace",
+        "class_id": 1,
+        "area": 48111
+      },
+      {
+        "bbox": [
+          178,
+          2073,
+          3727,
+          2796
+        ],
+        "confidence": 0.8686026930809021,
+        "label": "B_u",
+        "class_id": 0,
+        "area": 2565927
+      },
+      {
+        "bbox": [
+          210,
+          1278,
+          3800,
+          2083
+        ],
+        "confidence": 0.8186078071594238,
+        "label": "B_u",
+        "class_id": 0,
+        "area": 2889950
+      },
+      {
+        "bbox": [
+          239,
+          432,
+          3815,
+          1266
+        ],
+        "confidence": 0.8159870505332947,
+        "label": "B_u",
+        "class_id": 0,
+        "area": 2982384
+      }
+    ]
+  },
+  "staff_regions": {
+    "total_count": 6,
+    "regions": [
+      {
+        "id": 0,
+        "bbox": [
+          209,
+          402,
+          3845,
+          1296
+        ],
+        "original_bbox": [
+          239,
+          432,
+          3815,
+          1266
+        ],
+        "confidence": 0.8159870505332947
+      },
+      {
+        "id": 1,
+        "bbox": [
+          180,
+          1248,
+          3830,
+          2113
+        ],
+        "original_bbox": [
+          210,
+          1278,
+          3800,
+          2083
+        ],
+        "confidence": 0.8186078071594238
+      },
+      {
+        "id": 2,
+        "bbox": [
+          148,
+          2043,
+          3757,
+          2826
+        ],
+        "original_bbox": [
+          178,
+          2073,
+          3727,
+          2796
+        ],
+        "confidence": 0.8686026930809021
+      },
+      {
+        "id": 3,
+        "bbox": [
+          141,
+          2811,
+          3760,
+          3603
+        ],
+        "original_bbox": [
+          171,
+          2841,
+          3730,
+          3573
+        ],
+        "confidence": 0.9111457467079163
+      },
+      {
+        "id": 4,
+        "bbox": [
+          138,
+          3605,
+          3756,
+          4458
+        ],
+        "original_bbox": [
+          168,
+          3635,
+          3726,
+          4428
+        ],
+        "confidence": 0.9015364050865173
+      },
+      {
+        "id": 5,
+        "bbox": [
+          148,
+          4412,
+          3758,
+          5333
+        ],
+        "original_bbox": [
+          178,
+          4442,
+          3728,
+          5303
+        ],
+        "confidence": 0.937631368637085
+      }
+    ]
+  },
+  "cropped_results": [
+    {
+      "id": 0,
+      "original_bbox": [
+        239,
+        432,
+        3815,
+        1266
+      ],
+      "processed_bbox": [
+        209,
+        402,
+        3845,
+        1296
+      ],
+      "confidence": 0.8159870505332947,
+      "image_path": "simplified_results/20260207_212051/cropped_staffs/skoven_02_staff_000.png",
+      "image_size": [
+        256,
+        1041
+      ]
+    },
+    {
+      "id": 1,
+      "original_bbox": [
+        210,
+        1278,
+        3800,
+        2083
+      ],
+      "processed_bbox": [
+        180,
+        1248,
+        3830,
+        2113
+      ],
+      "confidence": 0.8186078071594238,
+      "image_path": "simplified_results/20260207_212051/cropped_staffs/skoven_02_staff_001.png",
+      "image_size": [
+        256,
+        1080
+      ]
+    },
+    {
+      "id": 2,
+      "original_bbox": [
+        178,
+        2073,
+        3727,
+        2796
+      ],
+      "processed_bbox": [
+        148,
+        2043,
+        3757,
+        2826
+      ],
+      "confidence": 0.8686026930809021,
+      "image_path": "simplified_results/20260207_212051/cropped_staffs/skoven_02_staff_002.png",
+      "image_size": [
+        256,
+        1179
+      ]
+    },
+    {
+      "id": 3,
+      "original_bbox": [
+        171,
+        2841,
+        3730,
+        3573
+      ],
+      "processed_bbox": [
+        141,
+        2811,
+        3760,
+        3603
+      ],
+      "confidence": 0.9111457467079163,
+      "image_path": "simplified_results/20260207_212051/cropped_staffs/skoven_02_staff_003.png",
+      "image_size": [
+        256,
+        1169
+      ]
+    },
+    {
+      "id": 4,
+      "original_bbox": [
+        168,
+        3635,
+        3726,
+        4428
+      ],
+      "processed_bbox": [
+        138,
+        3605,
+        3756,
+        4458
+      ],
+      "confidence": 0.9015364050865173,
+      "image_path": "simplified_results/20260207_212051/cropped_staffs/skoven_02_staff_004.png",
+      "image_size": [
+        256,
+        1085
+      ]
+    },
+    {
+      "id": 5,
+      "original_bbox": [
+        178,
+        4442,
+        3728,
+        5303
+      ],
+      "processed_bbox": [
+        148,
+        4412,
+        3758,
+        5333
+      ],
+      "confidence": 0.937631368637085,
+      "image_path": "simplified_results/20260207_212051/cropped_staffs/skoven_02_staff_005.png",
+      "image_size": [
+        256,
+        1003
+      ]
+    }
+  ],
+  "output_directories": {
+    "base": "simplified_results/20260207_212051",
+    "cropped_staffs": "simplified_results/20260207_212051/cropped_staffs",
+    "visualizations": "simplified_results/20260207_212051/visualizations",
+    "detections": "simplified_results/20260207_212051/detections"
+  }
+}

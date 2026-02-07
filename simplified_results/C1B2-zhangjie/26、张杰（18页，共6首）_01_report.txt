@@ -1,0 +1,46 @@
+============================================================
+Grand Staff OMR Processing Report
+============================================================
+
+Image: 26、张杰（18页，共6首）_01
+Processing Time: 2026-02-07 21:36:32
+
+YOLO Detections: 12
+  1. B_u: bbox=[167, 2247, 3790, 3039], conf=0.899
+  2. B_u: bbox=[185, 3044, 3769, 3851], conf=0.899
+  3. B_u: bbox=[239, 3829, 3731, 4577], conf=0.898
+  4. B_u: bbox=[209, 4578, 3732, 5336], conf=0.894
+  5. B_u: bbox=[339, 647, 3768, 1454], conf=0.894
+  6. B_u: bbox=[188, 1458, 3785, 2291], conf=0.893
+  7. Brace: bbox=[220, 3183, 305, 3692], conf=0.853
+  8. Brace: bbox=[224, 4754, 298, 5254], conf=0.830
+  9. Brace: bbox=[222, 2401, 298, 2912], conf=0.826
+  10. Brace: bbox=[225, 3969, 298, 4472], conf=0.823
+  11. Brace: bbox=[219, 1622, 296, 2130], conf=0.822
+  12. Brace: bbox=[587, 844, 666, 1354], conf=0.745
+
+Processed Staff Regions: 6
+  1. bbox=[309, 617, 3798, 1484], conf=0.894
+  2. bbox=[158, 1428, 3815, 2321], conf=0.893
+  3. bbox=[137, 2217, 3820, 3069], conf=0.899
+  4. bbox=[155, 3014, 3799, 3881], conf=0.899
+  5. bbox=[209, 3799, 3761, 4607], conf=0.898
+  6. bbox=[179, 4548, 3762, 5366], conf=0.894
+
+Cropped Images: 6
+  Staff 0: simplified_results/20260207_213627/cropped_staffs/26、张杰（18页，共6首）_01_staff_000.png
+  Staff 1: simplified_results/20260207_213627/cropped_staffs/26、张杰（18页，共6首）_01_staff_001.png
+  Staff 2: simplified_results/20260207_213627/cropped_staffs/26、张杰（18页，共6首）_01_staff_002.png
+  Staff 3: simplified_results/20260207_213627/cropped_staffs/26、张杰（18页，共6首）_01_staff_003.png
+  Staff 4: simplified_results/20260207_213627/cropped_staffs/26、张杰（18页，共6首）_01_staff_004.png
+  Staff 5: simplified_results/20260207_213627/cropped_staffs/26、张杰（18页，共6首）_01_staff_005.png
+
+Output Directories:
+  base: simplified_results/20260207_213627
+  cropped_staffs: simplified_results/20260207_213627/cropped_staffs
+  visualizations: simplified_results/20260207_213627/visualizations
+  detections: simplified_results/20260207_213627/detections
+
+============================================================
+End of Report
+============================================================

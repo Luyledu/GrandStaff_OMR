@@ -1,0 +1,46 @@
+============================================================
+Grand Staff OMR Processing Report
+============================================================
+
+Image: skoven_02
+Processing Time: 2026-02-07 21:31:54
+
+YOLO Detections: 12
+  1. B_u: bbox=[581, 2026, 4300, 2818], conf=0.925
+  2. B_u: bbox=[346, 4423, 4231, 5257], conf=0.901
+  3. B_u: bbox=[321, 2796, 4294, 3614], conf=0.899
+  4. B_u: bbox=[296, 391, 4239, 1245], conf=0.885
+  5. B_u: bbox=[247, 1222, 3883, 2048], conf=0.885
+  6. Brace: bbox=[204, 2981, 291, 3513], conf=0.883
+  7. B_u: bbox=[321, 3601, 4265, 4431], conf=0.879
+  8. Brace: bbox=[335, 598, 432, 1114], conf=0.873
+  9. Brace: bbox=[206, 3805, 295, 4305], conf=0.864
+  10. Brace: bbox=[215, 2197, 298, 2702], conf=0.860
+  11. Brace: bbox=[224, 1394, 304, 1895], conf=0.844
+  12. Brace: bbox=[205, 4631, 290, 5136], conf=0.723
+
+Processed Staff Regions: 6
+  1. bbox=[266, 361, 4269, 1275], conf=0.885
+  2. bbox=[217, 1192, 3913, 2078], conf=0.885
+  3. bbox=[551, 1996, 4330, 2848], conf=0.925
+  4. bbox=[291, 2766, 4324, 3644], conf=0.899
+  5. bbox=[291, 3571, 4295, 4461], conf=0.879
+  6. bbox=[316, 4393, 4261, 5287], conf=0.901
+
+Cropped Images: 6
+  Staff 0: simplified_results/20260207_213148/cropped_staffs/skoven_02_staff_000.png
+  Staff 1: simplified_results/20260207_213148/cropped_staffs/skoven_02_staff_001.png
+  Staff 2: simplified_results/20260207_213148/cropped_staffs/skoven_02_staff_002.png
+  Staff 3: simplified_results/20260207_213148/cropped_staffs/skoven_02_staff_003.png
+  Staff 4: simplified_results/20260207_213148/cropped_staffs/skoven_02_staff_004.png
+  Staff 5: simplified_results/20260207_213148/cropped_staffs/skoven_02_staff_005.png
+
+Output Directories:
+  base: simplified_results/20260207_213148
+  cropped_staffs: simplified_results/20260207_213148/cropped_staffs
+  visualizations: simplified_results/20260207_213148/visualizations
+  detections: simplified_results/20260207_213148/detections
+
+============================================================
+End of Report
+============================================================
